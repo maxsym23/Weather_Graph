@@ -1,5 +1,7 @@
 ## Synopsis
 Code for a weather station using the Particle Photon: https://www.particle.io/ and a local server in node.js with socket.io.  The data is pulled from the Photon using the particle-api-js package and particle.getVariable.  Data is sent using socket.io and socket.emit.  A client-side browser running a p5.js sketch graphs the data output.
+![screenshot 2017-03-01 15 34 19](https://cloud.githubusercontent.com/assets/24464682/23480147/e843fd46-fe94-11e6-8106-2aa129fa40b0.png)
+
 
 
 ## Installation
